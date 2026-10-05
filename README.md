@@ -1,0 +1,2 @@
+# premium-arc-weld-joint-001-arc-weld-joint-types-bead-pa
+Stop wasting material on test coupons just to recall joint geometries. The Arc Weld Joint Types &amp; Bead Pattern Craft Lab organizes every critical weld type and bead pattern into a single, searchable Notion database.  This template eliminates the guesswork and trial-and-error by providing a visual library of butt, lap, T-, corner, and edge joints al
